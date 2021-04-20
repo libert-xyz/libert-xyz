@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes Services insights Pt2](https://libert.xyz/posts/pod-services-pt2/)
 - [Deployment Types](https://libert.xyz/posts/deployment-types/)
 - [Namespaces resources quotas](https://libert.xyz/posts/namespaces-quotas/)
 - [PODS QoS](https://libert.xyz/posts/pods-qos/)
-- [PODS Requests & Limits](https://libert.xyz/posts/pods-requests-limits/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
