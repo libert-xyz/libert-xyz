@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Libert</h1>
 <h3 align="center">DevOps as a Service</h3>
 
-- 🔭 I’m currently working on [TullyApp](https://github.com/tullyapp)
-
-- 👨‍💻 All of my projects are available at [https://libert.xyz/open-source/](https://libert.xyz/open-source/)
-
-- 📝 I regularly write articles on [https://dev.to/](https://dev.to/)
-
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -19,8 +13,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rschmidt_z" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rschmidt_z" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rschmidtz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rschmidtz" height="30" width="40" /></a>
 <a href="/https://libert.xyz/posts/index.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://libert.xyz/posts/index.xml" height="30" width="40" /></a>
 </p>
 
